@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionParser", "ExpressionParser\ExpressionParser.csproj", "{E6F7B122-0907-4348-9738-AFF37C448914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JExpressionParser", "JExpressionParser\JExpressionParser.csproj", "{D2D46277-723E-4E8D-9F57-7F85382D3FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F7B122-0907-4348-9738-AFF37C448914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F7B122-0907-4348-9738-AFF37C448914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F7B122-0907-4348-9738-AFF37C448914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F7B122-0907-4348-9738-AFF37C448914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D46277-723E-4E8D-9F57-7F85382D3FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D46277-723E-4E8D-9F57-7F85382D3FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D46277-723E-4E8D-9F57-7F85382D3FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D46277-723E-4E8D-9F57-7F85382D3FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43797F96-3780-4E28-BB23-50FE498726B1}
+	EndGlobalSection
+EndGlobal

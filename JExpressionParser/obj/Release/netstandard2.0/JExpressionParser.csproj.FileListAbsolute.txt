@@ -1,0 +1,12 @@
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\bin\Release\netstandard2.0\JExpressionParser.deps.json
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\bin\Release\netstandard2.0\JExpressionParser.dll
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.csprojAssemblyReference.cache
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.AssemblyInfoInputs.cache
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.AssemblyInfo.cs
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\bin\Release\netstandard2.0\JExpressionParser.pdb
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\bin\Release\netstandard2.0\ExpressionParser.dll
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\bin\Release\netstandard2.0\ExpressionParser.pdb
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.csproj.CoreCompileInputs.cache
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.csproj.CopyComplete
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.dll
+C:\Users\scabr\source\repos\ExpressionParser\JExpressionParser\obj\Release\netstandard2.0\JExpressionParser.pdb
