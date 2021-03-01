@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PSlsaCp46uUhNnqvm8qbqSLt+SJjFr+x2yOGiMxXvhucLUUBWje+Se/aXdED3v0ydyE3GrD/rWZh3+3L7uSv+A==",
+  "dgSpecHash": "ZB5fBsinWWImcL+8Hw5iN+j7HAHE5ZHvZV/lJQKwSFCB52YMTtZ8yJbUiwdH27rDzeufvSibcCxWl+7hwdBe8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\JExpressionParser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scabr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\scabr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\scabr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\scabr\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -26,7 +26,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Newtonsoft.Json/12.0.3": {
+      "Newtonsoft.Json/11.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -35,14 +35,14 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "ExpressionParser/1.0.0": {
+      "SilentSammy.ExpressionParser/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/ExpressionParser.dll": {}
+          "bin/placeholder/SilentSammy.ExpressionParser.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExpressionParser.dll": {}
+          "bin/placeholder/SilentSammy.ExpressionParser.dll": {}
         }
       }
     }
@@ -192,10 +192,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/12.0.3": {
-      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+    "Newtonsoft.Json/11.0.1": {
+      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
       "type": "package",
-      "path": "newtonsoft.json/12.0.3",
+      "path": "newtonsoft.json/11.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -218,12 +218,11 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.12.0.3.nupkg.sha512",
-        "newtonsoft.json.nuspec",
-        "packageIcon.png"
+        "newtonsoft.json.11.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
       ]
     },
-    "ExpressionParser/1.0.0": {
+    "SilentSammy.ExpressionParser/1.0.0": {
       "type": "project",
       "path": "../ExpressionParser/ExpressionParser.csproj",
       "msbuildProject": "../ExpressionParser/ExpressionParser.csproj"
@@ -231,9 +230,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "ExpressionParser >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
-      "Newtonsoft.Json >= 12.0.3"
+      "Newtonsoft.Json >= 11.0.1",
+      "SilentSammy.ExpressionParser >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -243,7 +242,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\JExpressionParser.csproj",
-      "projectName": "JExpressionParser",
+      "projectName": "SilentSammy.JExpressionParser",
       "projectPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\JExpressionParser.csproj",
       "packagesPath": "C:\\Users\\scabr\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\obj\\",
@@ -285,7 +284,7 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[12.0.3, )"
+            "version": "[11.0.1, )"
           }
         },
         "imports": [

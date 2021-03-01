@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>SilentSammy.ExpressionParser</PackageId>
+    <Authors>SilentSammy</Authors>
+    <Description>Lightweight aritmethic and logical expression parser for .NET. Supports use of variables.</Description>
+    <PackageProjectUrl>https://github.com/SilentSammy/ExpressionParser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SilentSammy/ExpressionParser</RepositoryUrl>
+    <PackageTags>SilentSammy, expression, string, parser, variables, math, logic, .net</PackageTags>
+    <PackageReleaseNotes>This is the initial release.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright></Copyright>
   </PropertyGroup>
 
 </Project>

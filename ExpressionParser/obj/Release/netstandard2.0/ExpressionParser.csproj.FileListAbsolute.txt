@@ -6,3 +6,4 @@ C:\Users\scabr\source\repos\ExpressionParser\ExpressionParser\obj\Release\netsta
 C:\Users\scabr\source\repos\ExpressionParser\ExpressionParser\obj\Release\netstandard2.0\ExpressionParser.csproj.CoreCompileInputs.cache
 C:\Users\scabr\source\repos\ExpressionParser\ExpressionParser\obj\Release\netstandard2.0\ExpressionParser.dll
 C:\Users\scabr\source\repos\ExpressionParser\ExpressionParser\obj\Release\netstandard2.0\ExpressionParser.pdb
+C:\Users\scabr\source\repos\ExpressionParser\ExpressionParser\obj\Release\netstandard2.0\ExpressionParser.csprojAssemblyReference.cache

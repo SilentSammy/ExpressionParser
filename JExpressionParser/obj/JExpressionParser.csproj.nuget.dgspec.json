@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\ExpressionParser\\ExpressionParser.csproj",
-        "projectName": "ExpressionParser",
+        "projectName": "SilentSammy.ExpressionParser",
         "projectPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\ExpressionParser\\ExpressionParser.csproj",
         "packagesPath": "C:\\Users\\scabr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\ExpressionParser\\obj\\",
@@ -63,7 +63,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\JExpressionParser.csproj",
-        "projectName": "JExpressionParser",
+        "projectName": "SilentSammy.JExpressionParser",
         "projectPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\JExpressionParser.csproj",
         "packagesPath": "C:\\Users\\scabr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\JExpressionParser\\obj\\",
@@ -105,7 +105,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[11.0.1, )"
             }
           },
           "imports": [

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SilentSammy.ExpressionParser</id>
+    <version>1.0.0</version>
+    <authors>SilentSammy</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/SilentSammy/ExpressionParser</projectUrl>
+    <description>Lightweight aritmethic and logical expression parser for .NET. Supports use of variables.</description>
+    <releaseNotes>This is the initial release.</releaseNotes>
+    <tags>SilentSammy, expression, string, parser, variables, math, logic, .net</tags>
+    <repository url="https://github.com/SilentSammy/ExpressionParser" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\scabr\source\repos\ExpressionParser\ExpressionParser\bin\Release\netstandard2.0\ExpressionParser.dll" target="lib\netstandard2.0\ExpressionParser.dll" />
+  </files>
+</package>

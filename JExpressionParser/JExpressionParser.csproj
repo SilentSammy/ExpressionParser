@@ -2,10 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>SilentSammy.JExpressionParser</PackageId>
+    <Description>Lightweight aritmethic and logical expression parser for .NET. Supports use of JSON objects and arrays.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/SilentSammy/ExpressionParser</PackageProjectUrl>
+    <Copyright></Copyright>
+    <RepositoryUrl>https://github.com/SilentSammy/ExpressionParser</RepositoryUrl>
+    <RepositoryType></RepositoryType>
+    <PackageTags>SilentSammy, expression, string, parser, variables, math, logic, json, .net</PackageTags>
+    <PackageReleaseNotes>This is the initial release.</PackageReleaseNotes>
+    <Authors>SilentSammy</Authors>
+    <Company></Company>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
   </ItemGroup>
 
   <ItemGroup>

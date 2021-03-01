@@ -186,7 +186,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\ExpressionParser\\ExpressionParser.csproj",
-      "projectName": "ExpressionParser",
+      "projectName": "SilentSammy.ExpressionParser",
       "projectPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\ExpressionParser\\ExpressionParser.csproj",
       "packagesPath": "C:\\Users\\scabr\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\scabr\\source\\repos\\ExpressionParser\\ExpressionParser\\obj\\",
